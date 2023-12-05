@@ -57,7 +57,7 @@
 	</dependencies>
 	<profiles>
 		<profile>
-			<id>smoke</id>
+			<id>5678</id>
 			<build>
 				<plugins>
 					<plugin>
@@ -74,7 +74,7 @@
 			</build>
 		</profile>
 		<profile>
-			<id>regression</id>
+			<id>1234</id>
 			<build>
 				<plugins>
 					<plugin>
